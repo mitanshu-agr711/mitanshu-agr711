@@ -4,7 +4,7 @@
 <img align="right" src="https://dev-to-uploads.s3.amazonaws.com/i/d5sdc8q1qlcsbeotkrke.gif" width="400" height="200" alt="coding gif">
 
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **mitanshuagrawal5@gmail.com**
 
