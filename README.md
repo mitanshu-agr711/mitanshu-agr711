@@ -4,7 +4,11 @@
 <img align="right" src="https://dev-to-uploads.s3.amazonaws.com/i/d5sdc8q1qlcsbeotkrke.gif" width="400" height="200" alt="coding gif">
 
 
-- 🌱 I’m also **self-motivated** and **positive-thinking person**✌️
+🌱 I’m a self-motivated and positive-thinking individual ✌️, always eager to take on new challenges.
+
+🤖 I’ve been actively exploring Generative AI (GenAI), diving into LLMs, prompt engineering, and their practical applications to stay ahead of the curve.
+
+🔍 Driven by curiosity and a growth mindset, I consistently learn, explore, and evolve to stay updated with emerging technologies.
 
 - 📫 How to reach me **mitanshuagrawal5@gmail.com**
 
